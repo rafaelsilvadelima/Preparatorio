@@ -8,11 +8,11 @@ Este é um guia detalhado desenvolvido para auxiliar professores na condução d
 
 ## ⚙️ Orientações Gerais
 
-- **Duração da aula**: 1 hora
+- **Duração da aula**: 1 hora e 30 minutos
 - **Estrutura**:
-  - 5 minutos iniciais: Ligar computadores
-  - 50 minutos: Conteúdo
-  - 5 minutos finais: Encerramento e organização
+  - 10 minutos iniciais: Ligar computadores
+  - 70 minutos: Conteúdo
+  - 10 minutos finais: Encerramento e organização
 - **Atividade extra**: Prática de digitação no [TypingClub](https://www.typingclub.com)
 
 ## 🎯 Conteúdo Programático
