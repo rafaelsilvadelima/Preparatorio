@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://preparatorio.com.br/sitemap.xml
